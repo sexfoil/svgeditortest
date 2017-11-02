@@ -9,8 +9,13 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import static junit.framework.Assert.assertTrue;
 
 /**
- * Created by SiXFOiL on 01.11.2017.
+ * Test. Online editor of SVG-files. Import/export of files.
+ * Class HandlerSVGTest. Tasting some methods.
+ *
+ * @author Slava Poliakov
+ * @version 1.00 2017-11-02
  */
+
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @DirtiesContext(classMode = DirtiesContext.ClassMode.AFTER_EACH_TEST_METHOD)
